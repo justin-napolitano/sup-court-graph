@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - legal data indexing
   - supreme court opinions
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post focuses on processing and extracting structured data from legal documents, entity
+  linking, relationship extraction, and indexing using databases and search engines, which fits well
+  within data analysis, ETL pipelines, and data workflows described in the datascience family.
 ---
 
 # Technical Overview of sup-court-graph
@@ -81,3 +87,4 @@ Entities and relationships are indexed in Elasticsearch to allow for advanced qu
 ## Conclusion
 
 This project represents a technical foundation for advanced legal research tools, leveraging existing platforms and extending them with entity and relationship extraction capabilities. It is designed for developers and engineers aiming to build scalable, searchable legal data systems with complex entity relationships.
+
