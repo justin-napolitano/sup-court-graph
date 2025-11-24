@@ -1,12 +1,27 @@
 ---
-slug: "github-sup-court-graph"
-title: "sup-court-graph"
-repo: "justin-napolitano/sup-court-graph"
-githubUrl: "https://github.com/justin-napolitano/sup-court-graph"
-generatedAt: "2025-11-23T09:40:07.145453Z"
-source: "github-auto"
+slug: github-sup-court-graph
+title: 'sup-court-graph: Entity Linking and Relationship Extraction for Legal Data'
+repo: justin-napolitano/sup-court-graph
+githubUrl: https://github.com/justin-napolitano/sup-court-graph
+generatedAt: '2025-11-23T09:40:07.145453Z'
+source: github-auto
+summary: >-
+  Overview of sup-court-graph architecture and implementation that extracts and indexes entity
+  relationships from Supreme Court documents using DataShare and Elasticsearch.
+tags:
+  - legal-analytics
+  - entity-linking
+  - relationship-extraction
+  - elasticsearch
+  - postgresql
+  - docker
+seoPrimaryKeyword: entity linking
+seoSecondaryKeywords:
+  - relationship extraction
+  - legal data indexing
+  - supreme court opinions
+seoOptimized: true
 ---
-
 
 # Technical Overview of sup-court-graph
 
