@@ -6,9 +6,7 @@ repo: justin-napolitano/sup-court-graph
 githubUrl: https://github.com/justin-napolitano/sup-court-graph
 generatedAt: '2025-11-24T21:36:26.887Z'
 source: github-auto
-summary: >-
-  Explore how to create a graph visualization of Supreme Court cases using D3.js
-  and JavaScript.
+summary: Explore how to create a graph visualization of Supreme Court cases using D3.js and JavaScript.
 tags: []
 seoPrimaryKeyword: supreme court case graph
 seoSecondaryKeywords:
@@ -18,8 +16,8 @@ seoSecondaryKeywords:
   - data-driven documents
   - web graph applications
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -29,3 +27,4 @@ showInLogs: false
 ---
 
 ...
+
